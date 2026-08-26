@@ -1410,3 +1410,72 @@ body{
 .social-bar a:hover {
   transform: scale(1.12);
 }
+/* =====================================================
+   NAVBAR RESPONSIVE - CELULARES
+   ===================================================== */
+
+@media (max-width: 768px) {
+
+  body {
+    overflow-x: hidden;
+  }
+
+  /* Barra de redes */
+  .social-bar {
+    height: 34px;
+    padding: 0 12px;
+    justify-content: center;
+    gap: 14px;
+  }
+
+  .social-bar a {
+    width: 24px;
+    height: 24px;
+  }
+
+  /* NAVBAR */
+  .navbar {
+    width: 100%;
+    height: auto;
+    min-height: 90px;
+    padding: 10px 15px 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+
+  /* LOGO */
+  .navbar .logo {
+    height: 75px;
+    width: auto;
+    max-width: 190px;
+    object-fit: contain;
+  }
+
+  /* MENÚ */
+  .navbar .menu {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px 12px;
+  }
+
+  .navbar .menu a {
+    margin-left: 0;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    white-space: nowrap;
+  }
+
+  /* BOTÓN COTIZAR */
+  .navbar .menu .btn-menu {
+    padding: 8px 14px;
+    border-radius: 7px;
+    font-size: 11px;
+  }
+
+}
