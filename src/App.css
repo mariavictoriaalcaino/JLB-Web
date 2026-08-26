@@ -572,7 +572,7 @@ body{
     display: flex;
     gap: 15px;
     align-items: center;
-    margin-top: 80px;
+    margin-top: 100px;
 }
 .hero-btn{
     background:#25D366;
