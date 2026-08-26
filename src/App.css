@@ -1586,3 +1586,10 @@ body{
     }
 
 }
+@media (max-width: 768px) {
+    .hero-btn {
+        padding: 12px 24px;
+        font-size: 17px;
+        border-radius: 7px;
+    }
+}
