@@ -1588,11 +1588,21 @@ body{
 }
 @media (max-width: 768px) {
 
+   @media (max-width: 768px) {
+
+    .hero-buttons {
+        position: absolute;
+        left: 30px;
+        bottom: 70px;
+        display: flex;
+        gap: 12px;
+        align-items: center;
+    }
+
     .hero-btn {
         padding: 9px 18px;
         font-size: 15px;
         border-radius: 7px;
     }
 
-
-}
+  }}
