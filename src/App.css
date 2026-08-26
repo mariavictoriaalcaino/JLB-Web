@@ -1509,15 +1509,22 @@ body{
         gap: 15px;
     }
 
+   .logo {
+    height: 105px;
+    width: auto;
+}
+
+@media (max-width: 768px) {
     .logo {
-        height: 105px;
+        height: 125px;
         width: auto;
     }
+}
 
-    /* Ocultar menú de escritorio */
-    .menu {
-        display: none !important;
-    }
+/* Ocultar menú de escritorio */
+.menu {
+    display: none !important;
+}
 
     /* Mostrar botón hamburguesa */
     .mobile-menu-button {
@@ -1588,7 +1595,7 @@ body{
 }
 @media (max-width: 768px) {
 
-   @media (max-width: 768px) {
+  
 
   
 
@@ -1607,4 +1614,4 @@ body{
 
 }
 
-  }
+  
