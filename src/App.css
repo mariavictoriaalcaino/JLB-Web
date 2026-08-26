@@ -568,12 +568,12 @@ body{
     min-height:500px;
     border:0;
 }
-.hero-buttons{
-    display:flex;
-    gap:15px;
-    align-items:center;
+.hero-buttons {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-top: 35px;
 }
-
 .hero-btn{
     background:#25D366;
     color:white;
@@ -1588,8 +1588,8 @@ body{
 }
 @media (max-width: 768px) {
     .hero-btn {
-        padding: 12px 24px;
-        font-size: 17px;
-        border-radius: 7px;
-    }
+    padding: 10px 22px;
+    font-size: 16px;
+    border-radius: 7px;
+}
 }
