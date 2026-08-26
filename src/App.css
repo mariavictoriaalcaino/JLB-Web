@@ -572,7 +572,7 @@ body{
     display: flex;
     gap: 15px;
     align-items: center;
-    margin-top: 60px;
+    margin-top: 80px;
 }
 .hero-btn{
     background:#25D366;
@@ -1587,9 +1587,12 @@ body{
 
 }
 @media (max-width: 768px) {
+
     .hero-btn {
-    padding: 10px 22px;
-    font-size: 16px;
-    border-radius: 7px;
-}
+        padding: 9px 18px;
+        font-size: 15px;
+        border-radius: 7px;
+    }
+
+
 }
