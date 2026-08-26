@@ -1509,15 +1509,16 @@ body{
         gap: 15px;
     }
 
-   .logo {
+.logo {
     height: 105px;
     width: auto;
 }
 
 @media (max-width: 768px) {
     .logo {
-        height: 125px;
-        width: auto;
+        height: 145px !important;
+        width: auto !important;
+        max-height: none !important;
     }
 }
 
