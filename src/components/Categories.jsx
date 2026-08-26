@@ -1,4 +1,4 @@
-import accesorios from "../assets/products/accesorios.png";
+import accesorios from "../assets/products/ACCESORIOS.png";
 import amortiguacion from "../assets/products/AMORTIGUACION.png";
 import cabina from "../assets/products/CABINA.png";
 import cajaFuller from "../assets/products/CAJA FULLER.png";
