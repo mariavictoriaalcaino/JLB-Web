@@ -1479,3 +1479,110 @@ body{
   }
 
 }
+/* =========================
+   MENÚ MÓVIL
+========================= */
+
+.mobile-menu {
+    display: none;
+}
+
+/* Botón hamburguesa oculto en computador */
+.mobile-menu-button {
+    display: none;
+}
+
+
+/* =========================
+   CELULAR
+========================= */
+
+@media (max-width: 768px) {
+
+    .navbar {
+        height: auto;
+        min-height: 145px;
+        padding: 15px 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .logo {
+        height: 105px;
+        width: auto;
+    }
+
+    /* Ocultar menú de escritorio */
+    .menu {
+        display: none !important;
+    }
+
+    /* Mostrar botón hamburguesa */
+    .mobile-menu-button {
+        display: flex;
+        width: 45px;
+        height: 40px;
+        padding: 8px;
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .mobile-menu-button span {
+        display: block;
+        width: 28px;
+        height: 3px;
+        background: #003B80;
+        border-radius: 3px;
+    }
+
+    /* Menú móvil cerrado */
+    .mobile-menu {
+        display: none;
+        background: white;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        padding: 10px 0 20px;
+        box-shadow: 0 5px 15px rgba(0,0,0,.08);
+        position: relative;
+        z-index: 20;
+    }
+
+    /* Menú móvil abierto */
+    .mobile-menu.open {
+        display: flex;
+    }
+
+    .mobile-menu a {
+        display: block;
+        width: 100%;
+        padding: 14px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #003B80;
+        font-size: 16px;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+
+    .mobile-menu a:hover {
+        background: #f5f7fa;
+    }
+
+    .mobile-menu .mobile-btn-menu {
+        width: auto;
+        min-width: 180px;
+        margin-top: 8px;
+        padding: 13px 25px;
+        border-radius: 8px;
+        background: #25D366;
+        color: white;
+    }
+
+}
