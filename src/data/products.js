@@ -76,7 +76,7 @@ const products = [
     "codigoJLB": "804298",
     "codigoMack": "14QK3116M",
     "nombre": "AMORTIGUADOR GU DELANTERO",
-    "categoria": "AMORTIGUACION",
+    "categoria": "DIFERENCIAL Y SUSPENSIÓN",
     "imagen": "14QK3116M",
     "descripcion": "Contactenos para más información de este producto"
   },
