@@ -7,6 +7,7 @@ import Categories from "./components/Categories";
 import Products from "./components/Products";
 import Features from "./components/Features";
 import Contact from "./components/Contact";
+import PaymentMethods from "./components/PaymentMethods";
 
 function App() {
   const [showCatalog, setShowCatalog] = useState(false);
@@ -60,13 +61,15 @@ function App() {
         <>
           <Hero />
 
-          <Categories
-            onSelectCategory={openCatalog}
-          />
+        <Categories
+  onSelectCategory={openCatalog}
+/>
 
-          <Features />
+<PaymentMethods />
 
-          <Contact />
+<Features />
+
+<Contact />
         </>
       )}
     </>
