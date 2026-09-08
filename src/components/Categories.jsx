@@ -1,8 +1,8 @@
 import accesorios from "../assets/products/ACCESORIOS.png";
 import amortiguacion from "../assets/products/AMORTIGUACION.png";
 import cabina from "../assets/products/CABINA.png";
-import cajaFuller from "../assets/products/FULLER.JPEG";
-import cajaMaxitorque from "../assets/products/MAXITORQE.JPEG";
+import cajaFuller from "../assets/products/FULLER.jpeg";
+import cajaMaxitorque from "../assets/products/MAXITORQE.jpeg";
 import diferencialSuspension from "../assets/products/DIFERENCIAL Y SUSPENSIÓN.png";
 import kitAjusteMotor from "../assets/products/KIT AJUSTE MOTOR.png";
 import motor from "../assets/products/MOTOR.png";
