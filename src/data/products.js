@@ -6586,6 +6586,240 @@ const products = [
     "categoria": "KIT AJUSTE MOTOR",
     "imagen": "ERK-8037-001",
     "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 733,
+    "codigoJLB": "",
+    "codigoMack": "K3480",
+    "nombre": "AUXILIARY DRIVE GEAR KIT",
+    "categoria": "CAJA FULLER",
+    "imagen": "K3480",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 734,
+    "codigoJLB": "",
+    "codigoMack": "A7254",
+    "nombre": "JUEGO SINCRONIZADOR",
+    "categoria": "CAJA FULLER",
+    "imagen": "A7254",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 735,
+    "codigoJLB": "",
+    "codigoMack": "4305910",
+    "nombre": "HIGH PERFORMANCE MAINDRIVE GEAR",
+    "categoria": "CAJA FULLER",
+    "imagen": "4305910",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 736,
+    "codigoJLB": "",
+    "codigoMack": "4301840",
+    "nombre": "EMBRAGUE",
+    "categoria": "CAJA FULLER",
+    "imagen": "4301840",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 737,
+    "codigoJLB": "",
+    "codigoMack": "4304514",
+    "nombre": "GEAR",
+    "categoria": "CAJA FULLER",
+    "imagen": "4304514",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 738,
+    "codigoJLB": "",
+    "codigoMack": "4303673",
+    "nombre": "ESPACIADOR",
+    "categoria": "CAJA FULLER",
+    "imagen": "4303673",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 739,
+    "codigoJLB": "",
+    "codigoMack": "5566508",
+    "nombre": "COJINETE",
+    "categoria": "CAJA FULLER",
+    "imagen": "5566508",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 740,
+    "codigoJLB": "",
+    "codigoMack": "S3108",
+    "nombre": "EJE PRINCIPAL",
+    "categoria": "CAJA FULLER",
+    "imagen": "S3108",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 741,
+    "codigoJLB": "",
+    "codigoMack": "4304510",
+    "nombre": "ENGRANAJE",
+    "categoria": "CAJA FULLER",
+    "imagen": "4304510",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 742,
+    "codigoJLB": "",
+    "codigoMack": "A7331",
+    "nombre": "SINCRONIZADOR",
+    "categoria": "CAJA FULLER",
+    "imagen": "",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 743,
+    "codigoJLB": "",
+    "codigoMack": "16566",
+    "nombre": "BUJE",
+    "categoria": "CAJA FULLER",
+    "imagen": "16566",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 744,
+    "codigoJLB": "",
+    "codigoMack": "14897",
+    "nombre": "RESORTE",
+    "categoria": "CAJA FULLER",
+    "imagen": "14897",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 745,
+    "codigoJLB": "",
+    "codigoMack": "575KB3303",
+    "nombre": "HORQUILLA",
+    "categoria": "CAJA FULLER",
+    "imagen": "575KB3303",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 746,
+    "codigoJLB": "",
+    "codigoMack": "4302393",
+    "nombre": "ENGRANAJE",
+    "categoria": "CAJA FULLER",
+    "imagen": "4302393",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 747,
+    "codigoJLB": "",
+    "codigoMack": "5566510",
+    "nombre": "RODAMIENTO AUXILIAR",
+    "categoria": "CAJA FULLER",
+    "imagen": "5566510",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 748,
+    "codigoJLB": "",
+    "codigoMack": "4301795",
+    "nombre": "ENGRANAJE",
+    "categoria": "CAJA FULLER",
+    "imagen": "4301795",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 749,
+    "codigoJLB": "",
+    "codigoMack": "16566",
+    "nombre": "BUJE",
+    "categoria": "CAJA FULLER",
+    "imagen": "16566",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 750,
+    "codigoJLB": "",
+    "codigoMack": "14897",
+    "nombre": "RESORTE SINCRONIZADOR",
+    "categoria": "CAJA FULLER",
+    "imagen": "14897",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 751,
+    "codigoJLB": "",
+    "codigoMack": "4302393",
+    "nombre": "PIÑON DE SOBRE MARCHA",
+    "categoria": "CAJA FULLER",
+    "imagen": "4302393",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 752,
+    "codigoJLB": "",
+    "codigoMack": "4301795",
+    "nombre": "PIÑON REDUCTOR",
+    "categoria": "CAJA FULLER",
+    "imagen": "4301795",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 753,
+    "codigoJLB": "",
+    "codigoMack": "4304510",
+    "nombre": "PIÑON EJE PRINCIPAL",
+    "categoria": "CAJA FULLER",
+    "imagen": "4304510",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 754,
+    "codigoJLB": "",
+    "codigoMack": "4303673",
+    "nombre": "ESPACIDOR EJE AUXILIAR",
+    "categoria": "CAJA FULLER",
+    "imagen": "4303673",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 755,
+    "codigoJLB": "",
+    "codigoMack": "4301840",
+    "nombre": "EMBRAGUE SINCRONIZADOR",
+    "categoria": "CAJA FULLER",
+    "imagen": "4301840",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 756,
+    "codigoJLB": "",
+    "codigoMack": "4304514",
+    "nombre": "PIÑON EJE PRINCIPAL",
+    "categoria": "CAJA FULLER",
+    "imagen": "4304514",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 757,
+    "codigoJLB": "",
+    "codigoMack": "4305910",
+    "nombre": "PIÑON EJE PRINCIPAL",
+    "categoria": "CAJA FULLER",
+    "imagen": "4305910",
+    "descripcion": "Contactenos para más información de este producto"
+  },
+  {
+    "id": 758,
+    "codigoJLB": "",
+    "codigoMack": "A7331",
+    "nombre": "SINCRONIZADOR",
+    "categoria": "CAJA FULLER",
+    "imagen": "A7331",
+    "descripcion": "Contactenos para más información de este producto"
   }
 ];
 
